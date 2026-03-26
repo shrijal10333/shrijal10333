@@ -1,0 +1,32 @@
+name: Update Repo List
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate Repo List
+        run: |
+          echo "## 🚀 My Projects" > repos.txt
+          echo "" >> repos.txt
+          curl -s https://api.github.com/users/shrijal10333/repos \
+          | jq -r '.[] | "- [" + .name + "](https://github.com/shrijal10333/" + .name + ")"' >> repos.txt
+
+      - name: Insert into README
+        run: |
+          awk '/<!--START_SECTION:repos-->/{print;system("cat repos.txt");next}1' README.md > temp.md
+          mv temp.md README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "Updated repo list" || echo "No changes"
+          git push
