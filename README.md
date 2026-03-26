@@ -1,15 +1,13 @@
 <!-- 🟢 MATRIX + GLASS HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff99&height=220&section=header&text=SAMAKSH&fontSize=50&fontColor=00ff99&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff99&height=230&section=header&text=SAMAKSH&fontSize=55&fontColor=00ff99&animation=fadeIn"/>
 </p>
-
-<!-- 🔥 ANIME + TYPING -->
 
 <h1 align="center">Hey 👋 I'm Samaksh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Full+Stack+Developer;💻+JavaScript+%26+Python;🔥+Anime+Dev+Mode;🚀+Building+Crazy+Projects;🟢+Matrix+Mindset+Activated&center=true&width=550&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Full+Stack+Developer;💻+JavaScript+%26+Python;🔥+Anime+Dev+Mode;🚀+Building+Crazy+Projects;🟢+Matrix+Mindset&center=true&width=600&height=50">
 </p>
 
 ---
@@ -18,14 +16,14 @@
 
 ```diff
 + ⚡ 17 y/o Developer
-+ 🚀 Learning JavaScript & Python
++ 🚀 JavaScript & Python
 + 🧠 Turning ideas into code
 + 🔥 Future Full Stack Beast
 ```
 
 ---
 
-# 🛠️ TECH STACK (GLASS UI)
+# 🛠️ TECH STACK
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,python,nodejs,html,css,git,github,vscode,react,mongodb,firebase" />
@@ -33,7 +31,15 @@
 
 ---
 
-# 🚀 PROJECTS (AUTO UPDATED 🤖)
+# 🚀 🔥 TOP PROJECTS (AUTO)
+
+<!--START_SECTION:toprepos-->
+
+<!--END_SECTION:toprepos-->
+
+---
+
+# 📦 ALL PROJECTS (AUTO NUMBERED + STARS)
 
 <!--START_SECTION:repos-->
 
@@ -41,39 +47,16 @@
 
 ---
 
-# 🧪 FEATURED PROJECTS (PORTFOLIO STYLE)
-
-<table align="center">
-<tr>
-<td>
-<h3>🎵 Music Bot</h3>
-<p>Advanced Discord music system</p>
-</td>
-
-<td>
-<h3>🤖 Moderation Bot</h3>
-<p>Auto moderation & security</p>
-</td>
-
-<td>
-<h3>⚡ All-in-One Bot</h3>
-<p>Multi-purpose automation bot</p>
-</td>
-</tr>
-</table>
-
----
-
-# 📊 STATS (NEON STYLE)
+# 📊 STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrijal10333&show_icons=true&theme=tokyonight&border_radius=10" />
-  <img src="https://streak-stats.demolab.com?user=shrijal10333&theme=tokyonight&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shrijal10333&show_icons=true&theme=tokyonight&border_radius=12" />
+  <img src="https://streak-stats.demolab.com?user=shrijal10333&theme=tokyonight&border_radius=12" />
 </p>
 
 ---
 
-# 📈 ACTIVITY GRAPH (CYBER)
+# 📈 GRAPH
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrijal10333&theme=react-dark" />
@@ -89,21 +72,21 @@
 
 ---
 
-# 👀 PROFILE VIEWS
+# 👀 VISITORS
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shrijal10333&label=Profile%20views&color=00ff99&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=shrijal10333&color=00ff99" />
 </p>
 
 ---
 
-# 🧠 DEV MINDSET (MATRIX)
+# 🧠 DEV MODE
 
 ```bash
 > build fast
-> fail fast
-> learn faster
-> repeat infinitely
+> ship faster
+> never stop coding
+> break limits
 ```
 
 ---
@@ -116,45 +99,15 @@
 
 ---
 
-# 💡 RANDOM DEV QUOTE
-
-> "Stay hungry, stay foolish."
-
----
-
-# ⚡ CURRENTLY LEARNING
-
-* React ⚛️
-* APIs 🌐
-* Databases 🗄️
-
----
-
-# 🌐 CONNECT
-
-* 📺 YouTube: SamakshMinecraft
-
----
-
-# 🔥 MATRIX EFFECT
+# 💀 MATRIX ZONE
 
 ```
-101010101010101010101010101010
-010101010101010101010101010101
-101010101010101010101010101010
+101010101010101010101010
+010101010101010101010101
+101010101010101010101010
 ```
 
 ---
-
-# 💀 POWER ZONE
-
-⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐
-🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥
-🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀
-
----
-
-# 🧊 GLASS FOOTER
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff99&height=120&section=footer"/>
