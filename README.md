@@ -7,7 +7,7 @@
 <h1 align="center">Hey 👋 I'm Samaksh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;JavaScript+%26+Python;Matrix+Mode+Activated;Building+Cool+Projects&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;JavaScript+%26+Python;Samaksh+The+OG PERSON;Building+Cool+Projects&center=true&width=600&height=50">
 </p>
 
 ---
