@@ -1,13 +1,13 @@
-<!-- 🟢 MATRIX HEADER -->
+<!-- 🟢 HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff99&height=230&section=header&text=SAMAKSH&fontSize=55&fontColor=00ff99&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff99&height=230&section=header&text=SAMAKSH&fontSize=55&fontColor=00ff99"/>
 </p>
 
 <h1 align="center">Hey 👋 I'm Samaksh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Full+Stack+Developer;💻+JavaScript+%26+Python;🔥+Anime+Dev+Mode;🚀+Building+Crazy+Projects;🟢+Matrix+Mindset&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;JavaScript+%26+Python;Matrix+Mode+Activated;Building+Cool+Projects&center=true&width=600&height=50">
 </p>
 
 ---
@@ -21,29 +21,15 @@
 
 ---
 
-# 🛠️ TECH STACK
+# 🛠️ TECH STACK (ONE LINE)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=html" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=css" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=github" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=js,python,nodejs,html,css,git,github,vscode,react,mongodb,firebase" />
 </p>
 
 ---
 
-# 🚀 🔥 TOP PROJECTS 
+# 🚀 🔥 TOP PROJECTS
 
 <!--START_SECTION:toprepos-->
 
@@ -51,7 +37,7 @@
 
 ---
 
-# 📦 ALL PROJECTS (AUTO NUMBERED + STARS)
+# 📦 ALL PROJECTS
 
 <!--START_SECTION:repos-->
 
@@ -59,14 +45,12 @@
 
 ---
 
-# 📊 STATS
+# 📊 STATS (ONE LINE)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shrijal10333&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=shrijal10333&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrijal10333&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -102,66 +86,16 @@
 > ship faster
 > never stop coding
 > break limits
-> learn daily
-> execute always
 ```
 
 ---
 
 # 💀 MATRIX ZONE
 
-```txt
-101010101010101010101010101010
-010101010101010101010101010101
-101010101010101010101010101010
-010101010101010101010101010101
 ```
-
----
-
-# 🔥 POWER SECTION
-
-⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐
-🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥
-🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀
-
----
-
-# 🎯 GOALS
-
-* 💻 Master Full Stack
-* 🚀 Build SaaS
-* 🔥 Create Open Source
-
----
-
-# 🎮 HOBBIES
-
-* 🎧 Music
-* 🎮 Gaming
-* 💻 Coding
-
----
-
-# 💡 QUOTE
-
-> "Code hard until life gets easy."
-
----
-
-# 🧠 CURRENTLY LEARNING
-
-* React
-* APIs
-* Databases
-
----
-
-# ⚡ EXTRA SPAM (400+ vibe 💀)
-
-🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
-🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
-💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀
+101010101010101010101010
+010101010101010101010101
+```
 
 ---
 
