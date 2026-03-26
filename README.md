@@ -1,4 +1,4 @@
-<!-- 🟢 MATRIX + GLASS HEADER -->
+<!-- 🟢 MATRIX HEADER -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff99&height=230&section=header&text=SAMAKSH&fontSize=55&fontColor=00ff99&animation=fadeIn"/>
@@ -14,24 +14,36 @@
 
 # 🧠 ABOUT ME
 
-```diff
-+ ⚡ 17 y/o Developer
-+ 🚀 JavaScript & Python
-+ 🧠 Turning ideas into code
-+ 🔥 Future Full Stack Beast
-```
+* ⚡ 17 y/o Developer
+* 🚀 JavaScript & Python
+* 🧠 Turning ideas into code
+* 🔥 Future Full Stack Beast
 
 ---
 
 # 🛠️ TECH STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,nodejs,html,css,git,github,vscode,react,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=html" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=css" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=github" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
 ---
 
-# 🚀 🔥 TOP PROJECTS (AUTO)
+# 🚀 🔥 TOP PROJECTS 
 
 <!--START_SECTION:toprepos-->
 
@@ -50,8 +62,11 @@
 # 📊 STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrijal10333&show_icons=true&theme=tokyonight&border_radius=12" />
-  <img src="https://streak-stats.demolab.com?user=shrijal10333&theme=tokyonight&border_radius=12" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shrijal10333&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shrijal10333&theme=tokyonight" />
 </p>
 
 ---
@@ -67,7 +82,7 @@
 # 🏆 TROPHIES
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shrijal10333&theme=matrix&no-frame=true&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shrijal10333&theme=matrix&no-frame=true&row=2"/>
 </p>
 
 ---
@@ -87,7 +102,36 @@
 > ship faster
 > never stop coding
 > break limits
+> learn daily
+> execute always
 ```
+
+---
+
+# 💀 MATRIX ZONE
+
+```txt
+101010101010101010101010101010
+010101010101010101010101010101
+101010101010101010101010101010
+010101010101010101010101010101
+```
+
+---
+
+# 🔥 POWER SECTION
+
+⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐ ⭐
+🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥
+🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀
+
+---
+
+# 🎯 GOALS
+
+* 💻 Master Full Stack
+* 🚀 Build SaaS
+* 🔥 Create Open Source
 
 ---
 
@@ -99,13 +143,25 @@
 
 ---
 
-# 💀 MATRIX ZONE
+# 💡 QUOTE
 
-```
-101010101010101010101010
-010101010101010101010101
-101010101010101010101010
-```
+> "Code hard until life gets easy."
+
+---
+
+# 🧠 CURRENTLY LEARNING
+
+* React
+* APIs
+* Databases
+
+---
+
+# ⚡ EXTRA SPAM (400+ vibe 💀)
+
+🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
+🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
+💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀
 
 ---
 
