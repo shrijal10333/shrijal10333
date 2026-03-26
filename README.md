@@ -40,6 +40,9 @@
 # 📦 ALL PROJECTS
 
 <!--START_SECTION:repos-->
+## 🚀 My Projects
+
+- [shrijal10333](https://github.com/shrijal10333/shrijal10333)
 
 <!--END_SECTION:repos-->
 
