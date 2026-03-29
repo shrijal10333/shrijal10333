@@ -202,6 +202,9 @@
 ## 🚀 My Projects
 
 - [shrijal10333](https://github.com/shrijal10333/shrijal10333)
+## 🚀 My Projects
+
+- [shrijal10333](https://github.com/shrijal10333/shrijal10333)
 
 <!--END_SECTION:repos-->
 
