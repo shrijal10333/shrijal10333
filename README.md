@@ -42,6 +42,10 @@
 <!--START_SECTION:repos-->
 ## 🚀 My Projects
 
+- [ALL-IN-ONE-BOT-DISCORD](https://github.com/shrijal10333/ALL-IN-ONE-BOT-DISCORD)
+- [shrijal10333](https://github.com/shrijal10333/shrijal10333)
+## 🚀 My Projects
+
 - [shrijal10333](https://github.com/shrijal10333/shrijal10333)
 ## 🚀 My Projects
 
