@@ -1778,6 +1778,11 @@
 ## 🚀 My Projects
 
 - [ALL-IN-ONE-BOT-DISCORD](https://github.com/shrijal10333/ALL-IN-ONE-BOT-DISCORD)
+- [Samaksh-Music-Bot-Discord](https://github.com/shrijal10333/Samaksh-Music-Bot-Discord)
+- [shrijal10333](https://github.com/shrijal10333/shrijal10333)
+## 🚀 My Projects
+
+- [ALL-IN-ONE-BOT-DISCORD](https://github.com/shrijal10333/ALL-IN-ONE-BOT-DISCORD)
 - [shrijal10333](https://github.com/shrijal10333/shrijal10333)
 ## 🚀 My Projects
 
