@@ -334,6 +334,18 @@
 - [ALL-IN-ONE-BOT-DISCORD](https://github.com/shrijal10333/ALL-IN-ONE-BOT-DISCORD)
 - [minecraft-panel](https://github.com/shrijal10333/minecraft-panel)
 - [payment-gateways](https://github.com/shrijal10333/payment-gateways)
+- [payment-gatewaysssssssssss](https://github.com/shrijal10333/payment-gatewaysssssssssss)
+- [RIFT-ALL-BOT-HOSTING](https://github.com/shrijal10333/RIFT-ALL-BOT-HOSTING)
+- [samakshvpm](https://github.com/shrijal10333/samakshvpm)
+- [shrijal10333](https://github.com/shrijal10333/shrijal10333)
+- [vps-24-7](https://github.com/shrijal10333/vps-24-7)
+- [vps1234](https://github.com/shrijal10333/vps1234)
+## 🚀 My Projects
+
+- [8-GB-RAM-SERVER-2](https://github.com/shrijal10333/8-GB-RAM-SERVER-2)
+- [ALL-IN-ONE-BOT-DISCORD](https://github.com/shrijal10333/ALL-IN-ONE-BOT-DISCORD)
+- [minecraft-panel](https://github.com/shrijal10333/minecraft-panel)
+- [payment-gateways](https://github.com/shrijal10333/payment-gateways)
 - [RIFT-ALL-BOT-HOSTING](https://github.com/shrijal10333/RIFT-ALL-BOT-HOSTING)
 - [samakshvpm](https://github.com/shrijal10333/samakshvpm)
 - [shrijal10333](https://github.com/shrijal10333/shrijal10333)
