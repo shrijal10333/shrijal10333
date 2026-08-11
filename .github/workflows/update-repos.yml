@@ -1,290 +1,385 @@
-name: Auto Update GitHub README
+name: 🔄 Auto Update GitHub README
 
 on:
-workflow_dispatch:
-
-schedule:
-- cron: "0 */6 * * *"
-
-push:
-branches:
-- main
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+  push:
+    branches:
+      - main
 
 permissions:
-contents: write
+  contents: write
 
 jobs:
-update-readme:
-runs-on: ubuntu-latest
+  update-readme:
+    runs-on: ubuntu-latest
 
-```
-steps:
-  - name: Checkout repository
-    uses: actions/checkout@v4
+    steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
 
-  - name: Update projects
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      GITHUB_USERNAME: shrijal10333
-    run: |
-      python3 - <<'PY'
-      import os
-      import json
-      import urllib.request
-      import urllib.parse
-      import re
+      - name: 🐍 Generate Project Cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: shrijal10333
+        run: |
+          python3 <<'PY'
+          import os
+          import json
+          import urllib.request
+          import urllib.parse
+          import re
 
-      username = os.environ["GITHUB_USERNAME"]
-      token = os.environ["GITHUB_TOKEN"]
-      readme_file = "README.md"
+          username = os.environ["GITHUB_USERNAME"]
+          token = os.environ["GITHUB_TOKEN"]
 
-      headers = {
-          "Authorization": f"Bearer {token}",
-          "Accept": "application/vnd.github+json",
-          "X-GitHub-Api-Version": "2022-11-28",
-          "User-Agent": "github-readme-updater"
-      }
+          README = "README.md"
 
-      def github_request(url):
-          request = urllib.request.Request(
-              url,
-              headers=headers
+          headers = {
+              "Authorization": f"Bearer {token}",
+              "Accept": "application/vnd.github+json",
+              "X-GitHub-Api-Version": "2022-11-28",
+              "User-Agent": "samaksh-readme-updater"
+          }
+
+          def github_request(url):
+              request = urllib.request.Request(
+                  url,
+                  headers=headers
+              )
+              with urllib.request.urlopen(request) as response:
+                  return json.loads(
+                      response.read().decode()
+                  )
+
+          # =========================================================
+          # FETCH ALL PUBLIC REPOSITORIES
+          # =========================================================
+          repos = []
+          page = 1
+
+          while True:
+              url = (
+                  f"https://api.github.com/users/"
+                  f"{urllib.parse.quote(username)}/repos"
+                  f"?per_page=100&page={page}&type=owner"
+              )
+              data = github_request(url)
+              if not data:
+                  break
+              repos.extend(data)
+              if len(data) < 100:
+                  break
+              page += 1
+
+          # =========================================================
+          # REMOVE PROFILE README REPOSITORY
+          # =========================================================
+          repos = [
+              repo
+              for repo in repos
+              if repo["name"].lower() != username.lower()
+          ]
+
+          # =========================================================
+          # SORT BY LAST UPDATE
+          # =========================================================
+          repos.sort(
+              key=lambda repo: repo.get(
+                  "updated_at",
+                  ""
+              ),
+              reverse=True
           )
 
-          with urllib.request.urlopen(request) as response:
-              return json.loads(
-                  response.read().decode("utf-8")
+          # =========================================================
+          # EMOJI SYSTEM
+          # =========================================================
+          def get_emoji(repo):
+              name = repo["name"].lower()
+
+              if any(word in name for word in [
+                  "bot",
+                  "discord"
+              ]):
+                  return "🤖"
+
+              if any(word in name for word in [
+                  "panel",
+                  "dashboard"
+              ]):
+                  return "🎛️"
+
+              if any(word in name for word in [
+                  "server",
+                  "vps",
+                  "hosting",
+                  "vm"
+              ]):
+                  return "🖥️"
+
+              if any(word in name for word in [
+                  "payment",
+                  "gateway"
+              ]):
+                  return "💳"
+
+              if any(word in name for word in [
+                  "website",
+                  "web",
+                  "site"
+              ]):
+                  return "🌐"
+
+              if any(word in name for word in [
+                  "game",
+                  "gaming",
+                  "tournament"
+              ]):
+                  return "🎮"
+
+              if any(word in name for word in [
+                  "ai",
+                  "gpt",
+                  "chat"
+              ]):
+                  return "🤖"
+
+              if any(word in name for word in [
+                  "api"
+              ]):
+                  return "⚡"
+
+              if any(word in name for word in [
+                  "mobile",
+                  "android",
+                  "ios"
+              ]):
+                  return "📱"
+
+              if any(word in name for word in [
+                  "shop",
+                  "store",
+                  "ecommerce"
+              ]):
+                  return "🛍️"
+
+              return "🚀"
+
+          # =========================================================
+          # CLEAN PROJECT NAME
+          # =========================================================
+          def pretty_name(name):
+              name = name.replace("-", " ")
+              name = name.replace("_", " ")
+              return name.strip().title()
+
+          # =========================================================
+          # CREATE CARDS
+          # =========================================================
+          cards = []
+
+          for repo in repos:
+              name = repo["name"]
+              title = pretty_name(name)
+              emoji = get_emoji(repo)
+              description = repo.get("description")
+
+              if not description:
+                  description = (
+                      "An experimental project "
+                      "built by Samaksh."
+                  )
+
+              description = (
+                  description
+                  .replace("\n", " ")
+                  .strip()
               )
 
-      repos = []
-      page = 1
+              if len(description) > 150:
+                  description = (
+                      description[:147]
+                      + "..."
+                  )
 
-      while True:
-          url = (
-              "https://api.github.com/users/"
-              + urllib.parse.quote(username)
-              + "/repos?per_page=100&page="
-              + str(page)
-              + "&type=owner&sort=updated"
+              language = repo.get("language")
+
+              if language:
+                  language_text = (
+                      f"**{language}**"
+                  )
+              else:
+                  language_text = "**Project**"
+
+              stars = repo.get(
+                  "stargazers_count",
+                  0
+              )
+
+              forks = repo.get(
+                  "forks_count",
+                  0
+              )
+
+              repo_url = repo["html_url"]
+
+              card = f"""
+          <td width="50%" valign="top">
+
+          ### {emoji} {title}
+
+          {language_text}
+
+          {description}
+
+          <br/>
+
+          ⭐ `{stars}` &nbsp;&nbsp; 🍴 `{forks}`
+
+          <br/><br/>
+
+          <a href="{repo_url}">
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+
+          </td>
+          """
+
+              cards.append(card)
+
+          # =========================================================
+          # BUILD PROJECT TABLE
+          # =========================================================
+          project_html = """
+          <div align="center">
+
+          <table>
+
+          """
+
+          for index in range(
+              0,
+              len(cards),
+              2
+          ):
+              project_html += "<tr>\n"
+              project_html += cards[index]
+
+              if index + 1 < len(cards):
+                  project_html += (
+                      cards[index + 1]
+                  )
+              else:
+                  project_html += """
+          <td width="50%"></td>
+          """
+
+              project_html += "\n</tr>\n"
+
+          project_html += """
+
+          </table>
+
+          </div>
+
+          """
+
+          # =========================================================
+          # AUTOMATIC PROJECT COUNT
+          # =========================================================
+          project_count = len(repos)
+
+          header = f"""
+          <div align="center">
+
+          ### 🚀 `{project_count} Projects & Counting...`
+
+          <br/>
+
+          <sub>
+          Automatically synchronized with my GitHub repositories.
+          </sub>
+
+          </div>
+
+          """
+
+          project_html = (
+              header
+              + project_html
           )
 
-          data = github_request(url)
-
-          if not data:
-              break
-
-          repos.extend(data)
-
-          if len(data) < 100:
-              break
-
-          page += 1
-
-      repos = [
-          repo
-          for repo in repos
-          if repo["name"].lower() != username.lower()
-      ]
-
-      repos.sort(
-          key=lambda repo: repo.get("updated_at", ""),
-          reverse=True
-      )
-
-      def get_emoji(repo):
-          name = repo["name"].lower()
-
-          if any(x in name for x in ["bot", "discord"]):
-              return "🤖"
-
-          if any(x in name for x in ["panel", "dashboard"]):
-              return "🎛️"
-
-          if any(x in name for x in ["server", "vps", "hosting"]):
-              return "🖥️"
-
-          if any(x in name for x in ["payment", "gateway"]):
-              return "💳"
-
-          if any(x in name for x in ["website", "web", "site"]):
-              return "🌐"
-
-          if any(x in name for x in ["game", "gaming", "tournament"]):
-              return "🎮"
-
-          if any(x in name for x in ["ai", "gpt", "chat"]):
-              return "🤖"
-
-          if "api" in name:
-              return "⚡"
-
-          if any(x in name for x in ["mobile", "android", "ios"]):
-              return "📱"
-
-          if any(x in name for x in ["shop", "store", "ecommerce"]):
-              return "🛍️"
-
-          return "🚀"
-
-      def pretty_name(name):
-          return (
-              name
-              .replace("-", " ")
-              .replace("_", " ")
-              .strip()
-              .title()
-          )
-
-      cards = []
-
-      for repo in repos:
-          name = repo["name"]
-          title = pretty_name(name)
-          emoji = get_emoji(repo)
-
-          description = repo.get("description")
-
-          if not description:
-              description = "An experimental project built by Samaksh."
-
-          description = (
-              description
-              .replace("\n", " ")
-              .strip()
-          )
-
-          if len(description) > 150:
-              description = description[:147] + "..."
-
-          language = repo.get("language") or "Project"
-          stars = repo.get("stargazers_count", 0)
-          forks = repo.get("forks_count", 0)
-          repo_url = repo["html_url"]
-
-          card = f"""
-      <td width="50%" valign="top">
-
-      ### {emoji} {title}
-
-      **{language}**
-
-      {description}
-
-      <br/>
-
-      ⭐ `{stars}` &nbsp;&nbsp; 🍴 `{forks}`
-
-      <br/><br/>
-
-      <a href="{repo_url}">
-      <img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-
-      </td>
-      """
-
-          cards.append(card)
-
-      project_html = """
-      <div align="center">
-
-      <table>
-      """
-
-      for index in range(0, len(cards), 2):
-          project_html += "<tr>\n"
-          project_html += cards[index]
-
-          if index + 1 < len(cards):
-              project_html += cards[index + 1]
-          else:
-              project_html += '<td width="50%"></td>'
-
-          project_html += "\n</tr>\n"
-
-      project_html += """
-      </table>
-
-      </div>
-      """
-
-      project_count = len(repos)
-
-      project_section = f"""
-      <div align="center">
-
-      ### 🚀 `{project_count} Projects & Counting...`
-
-      <br/>
-
-      <sub>
-      Automatically synchronized with my GitHub repositories.
-      </sub>
-
-      </div>
-
-      {project_html}
-      """
-
-      with open(
-          readme_file,
-          "r",
-          encoding="utf-8"
-      ) as file:
-          readme = file.read()
-
-      start_marker = "<!-- PROJECTS_START -->"
-      end_marker = "<!-- PROJECTS_END -->"
-
-      pattern = (
-          re.escape(start_marker)
-          + r".*?"
-          + re.escape(end_marker)
-      )
-
-      replacement = (
-          start_marker
-          + "\n\n"
-          + project_section
-          + "\n"
-          + end_marker
-      )
-
-      new_readme = re.sub(
-          pattern,
-          replacement,
-          readme,
-          flags=re.DOTALL
-      )
-
-      if new_readme == readme:
-          print("No README changes required.")
-
-      else:
+          # =========================================================
+          # UPDATE README PROJECT SECTION
+          # =========================================================
           with open(
-              readme_file,
+              README,
+              "r",
+              encoding="utf-8"
+          ) as file:
+              readme = file.read()
+
+          start_marker = "<!-- PROJECTS_START -->"
+          end_marker = "<!-- PROJECTS_END -->"
+
+          pattern = (
+              re.escape(start_marker)
+              + r".*?"
+              + re.escape(end_marker)
+          )
+
+          replacement = (
+              start_marker
+              + "\n\n"
+              + project_html
+              + "\n"
+              + end_marker
+          )
+
+          new_readme = re.sub(
+              pattern,
+              replacement,
+              readme,
+              flags=re.DOTALL
+          )
+
+          if new_readme == readme:
+              print(
+                  "ERROR: Project markers not found."
+              )
+              raise SystemExit(1)
+
+          # =========================================================
+          # WRITE README
+          # =========================================================
+          with open(
+              README,
               "w",
               encoding="utf-8"
           ) as file:
               file.write(new_readme)
 
           print(
-              f"Successfully updated {project_count} projects."
+              f"✅ Successfully synchronized "
+              f"{project_count} repositories."
           )
+          PY
 
-      PY
+      - name: 🔍 Show README Changes
+        run: |
+          git diff -- README.md
 
-  - name: Commit README changes
-    run: |
-      git config user.name "github-actions[bot]"
-      git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-      git add README.md
-
-      if git diff --cached --quiet; then
-        echo "No changes to commit."
-      else
-        git commit -m "Auto update project showcase"
-        git push
-      fi
-```
+      - name: 💾 Commit README
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          
+          if git diff --cached --quiet; then
+            echo "ℹ️ No changes detected."
+          else
+            git commit -m "🤖 Auto update project showcase"
+            git push
+          fi
