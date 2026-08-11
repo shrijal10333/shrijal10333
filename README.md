@@ -310,17 +310,387 @@ I believe technology is more fun when you mix different worlds.
 
 <!-- PROJECTS_START -->
 
+
+<div align="center">
+
+### 🚀 `17 Projects & Counting...`
+
+<br/>
+
+<sub>
+Automatically synchronized with my GitHub repositories.
+</sub>
+
+</div>
+
+
 <div align="center">
 
 <table>
 
 <tr>
 
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-### 🚀 Projects Loading...
+### 🤖 Samakshhh Bots All In One
 
-The automatic GitHub project system will populate this section.
+**Project**
+
+ZyroX - A feature-rich Discord bot with antinuke, automod, music, leveling & more, paired with a Next.js dashboard for per-server management. Built...
+
+<br/>
+
+⭐ `0` &nbsp;&nbsp; 🍴 `0`
+
+<br/><br/>
+
+<a href="https://github.com/shrijal10333/samakshhh-bots-all-in-one">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 Sweetie
+
+**TypeScript**
+
+An experimental project built by Samaksh.
+
+<br/>
+
+⭐ `0` &nbsp;&nbsp; 🍴 `0`
+
+<br/><br/>
+
+<a href="https://github.com/shrijal10333/Sweetie">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🚀 Samaksh Repo
+
+**JavaScript**
+
+An experimental project built by Samaksh.
+
+<br/>
+
+⭐ `0` &nbsp;&nbsp; 🍴 `0`
+
+<br/><br/>
+
+<a href="https://github.com/shrijal10333/SAMAKSH-REPO">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 Samakshh All In One Bottttt
+
+**JavaScript**
+
+An experimental project built by Samaksh.
+
+<br/>
+
+⭐ `0` &nbsp;&nbsp; 🍴 `0`
+
+<br/><br/>
+
+<a href="https://github.com/shrijal10333/SAMAKSHH-ALL-IN-ONE-BOTTTTT">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌐 Samaksh Website
+
+**Python**
+
+An experimental project built by Samaksh.
+
+<br/>
+
+⭐ `0` &nbsp;&nbsp; 🍴 `0`
+
+<br/><br/>
+
+<a href="https://github.com/shrijal10333/samaksh-website">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🖥️ Nodejs Ubuntu Vm
+
+**Project**
+
+An experimental project built by Samaksh.
+
+<br/>
+
+⭐ `0` &nbsp;&nbsp; 🍴 `0`
+
+<br/><br/>
+
+<a href="https://github.com/shrijal10333/nodejs-ubuntu-vm">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎛️ Samaksh Panel
+
+**EJS**
+
+An experimental project built by Samaksh.
+
+<br/>
+
+⭐ `0` &nbsp;&nbsp; 🍴 `0`
+
+<br/><br/>
+
+<a href="https://github.com/shrijal10333/samaksh-panel">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎛️ Samaksh Panel Hosting
+
+**JavaScript**
+
+An experimental project built by Samaksh.
+
+<br/>
+
+⭐ `0` &nbsp;&nbsp; 🍴 `0`
+
+<br/><br/>
+
+<a href="https://github.com/shrijal10333/SAMAKSH-PANEL-HOSTING">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎛️ Oen Panel
+
+**Project**
+
+An experimental project built by Samaksh.
+
+<br/>
+
+⭐ `0` &nbsp;&nbsp; 🍴 `0`
+
+<br/><br/>
+
+<a href="https://github.com/shrijal10333/oen-panel">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🖥️ Vps123
+
+**Project**
+
+An experimental project built by Samaksh.
+
+<br/>
+
+⭐ `0` &nbsp;&nbsp; 🍴 `0`
+
+<br/><br/>
+
+<a href="https://github.com/shrijal10333/vps123">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 💳 Payment Gatewaysssssssssss
+
+**Project**
+
+An experimental project built by Samaksh.
+
+<br/>
+
+⭐ `1` &nbsp;&nbsp; 🍴 `0`
+
+<br/><br/>
+
+<a href="https://github.com/shrijal10333/payment-gatewaysssssssssss">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💳 Payment Gateways
+
+**PHP**
+
+An experimental project built by Samaksh.
+
+<br/>
+
+⭐ `0` &nbsp;&nbsp; 🍴 `0`
+
+<br/><br/>
+
+<a href="https://github.com/shrijal10333/payment-gateways">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🚀 Samakshvpm
+
+**Project**
+
+An experimental project built by Samaksh.
+
+<br/>
+
+⭐ `0` &nbsp;&nbsp; 🍴 `0`
+
+<br/><br/>
+
+<a href="https://github.com/shrijal10333/samakshvpm">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 Rift All Bot Hosting
+
+**JavaScript**
+
+An experimental project built by Samaksh.
+
+<br/>
+
+⭐ `0` &nbsp;&nbsp; 🍴 `0`
+
+<br/><br/>
+
+<a href="https://github.com/shrijal10333/RIFT-ALL-BOT-HOSTING">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🖥️ Vps1234
+
+**Project**
+
+An experimental project built by Samaksh.
+
+<br/>
+
+⭐ `0` &nbsp;&nbsp; 🍴 `0`
+
+<br/><br/>
+
+<a href="https://github.com/shrijal10333/vps1234">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🖥️ 8 Gb Ram Server 2
+
+**EJS**
+
+8 GB RAM SERVER 2
+
+<br/>
+
+⭐ `0` &nbsp;&nbsp; 🍴 `0`
+
+<br/><br/>
+
+<a href="https://github.com/shrijal10333/8-GB-RAM-SERVER-2">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🤖 All In One Bot Discord
+
+**Python**
+
+An experimental project built by Samaksh.
+
+<br/>
+
+⭐ `1` &nbsp;&nbsp; 🍴 `0`
+
+<br/><br/>
+
+<a href="https://github.com/shrijal10333/ALL-IN-ONE-BOT-DISCORD">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
@@ -328,9 +698,11 @@ The automatic GitHub project system will populate this section.
 
 </tr>
 
+
 </table>
 
 </div>
+
 
 <!-- PROJECTS_END -->
 
