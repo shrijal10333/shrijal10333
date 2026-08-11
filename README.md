@@ -1,81 +1,357 @@
-<!-- 
-=============================================================================
-██████╗ ███████╗ █████╗ ██████╗ ███╗   ███╗███████╗
-██╔══██╗██╔════╝██╔══██╗██╔══██╗████╗ ████║██╔════╝
-██████╔╝█████╗  ███████║██║  ██║██╔████╔██║█████╗  
-██╔══██╗██╔════╝██╔══██╗██║  ██║██║╚██╔╝██║██╔════╝
-██║  ██║███████╗██║  ██║██████╔╝██║ ╚═╝ ██║███████╗
-╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝     ╚═╝╚══════╝
-Aesthetic GitHub Profile README Config - Dark Tech Theme
-=============================================================================
--->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4,5,6,7&height=220&section=header&text=Welcome%20to%20My%20Digital%20Realm&fontSize=60&fontAlign=50&fontAlignY=45&animation=twinkling&desc=%20Building%20Intelligent%20Solutions%20at%20the%20Edge%20of%20Possibility&descSize=20&descAlign=50&descAlignY=65" width="100%" />
-</p>
+<!--                    SAMAKSH • GITHUB README                    -->
 
-<!-- SPACER -->
-<br />
-<br />
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- ===================================================================== -->
-<!-- INTRODUCTION / HERO SECTION                                           -->
-<!-- ===================================================================== -->
-<table align="center" width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <h1>Hey there! I'm Your Name 👋</h1>
-      <h3>A passionate Polyglot & AI Software Engineer</h3>
-      <p>
-        I specialize in crafting high-performance, scalable systems and integrating
-        intelligent solutions across the full stack. Currently, I'm deeply immersed in
-        exploring the convergence of distributed systems and edge AI.
-      </p>
-      <p>
-        My goal is to develop technology that is not only functional but also intuitive,
-        efficient, and aesthetically elegant.
-      </p>
-      <br />
-      <a href="https://linkedin.com/in/YOUR_LINKEDIN_URL" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-      <a href="https://yourportfolio.com" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-      </a>
-      <a href="mailto:your.email@example.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-    </td>
-    <td width="45%" align="center" valign="middle">
-      <!-- MAIN AESTHETIC GIF - Ensure this link is reliable -->
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnY5aGk5ODRscHRvOGE2ZjdvZWpsNmY2cmN5OWI2dHA4YXlqY2FwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K54N8LzYFk1bH44F/giphy.gif" alt="Coding GIF" width="380" />
-    </td>
-  </tr>
+<div align="center">
+
+<img src="https://github.com/DIMFLIX/DIMFLIX/raw/main/assets/main.gif" width="100%" alt="Welcome"/>
+
+<br/>
+
+# ⚡ SAMAKSH
+
+### `Building • Creating • Experimenting`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=700&lines=Developer+%7C+Creator+%7C+Editor;I+build+things+I+wish+existed.;Turning+ideas+into+digital+experiences.;Code+%E2%80%A2+Create+%E2%80%A2+Break+%E2%80%A2+Rebuild" alt="Typing SVG"/>
+
+<br/>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/Projects-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white"/>
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/Always-Building-6366F1?style=for-the-badge&logo=githubsponsors&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🧠 `whoami`
+
+> **I'm Samaksh — a curious builder who likes turning random ideas into actual things.**
+
+I enjoy exploring **development, web experiences, gaming, video editing, automation and digital products**.
+
+I'm not interested in just learning technology.
+
+**I like building with it.**
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   👨‍💻  Developer        →  Building digital experiences     │
+│   🎨  Creator          →  Editing & visual content         │
+│   🎮  Gamer            →  Gaming & gaming projects          │
+│   🚀  Builder          →  Turning ideas into products       │
+│   🧪  Explorer         →  Always experimenting              │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## ✨ What I'm Into
+
+<table>
+<tr>
+<td width="50%">
+
+### 💻 Development
+
+* Web development
+* UI / UX experiments
+* Interactive websites
+* Automation
+* AI-powered ideas
+* Game-related projects
+
+</td>
+
+<td width="50%">
+
+### 🎨 Creative
+
+* Video editing
+* 4K content
+* Visual design
+* Profile / brand aesthetics
+* Social media content
+* Creative experiments
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎮 Gaming
+
+* PC gaming
+* Competitive games
+* Gaming communities
+* Tournament concepts
+* Streaming / remote gaming
+* Performance optimization
+
+</td>
+
+<td width="50%">
+
+### 🚀 Building
+
+* Digital products
+* Online businesses
+* E-commerce ideas
+* Creator tools
+* Community platforms
+* Experimental projects
+
+</td>
+</tr>
 </table>
 
-<!-- SPACER -->
-<br />
-<br />
-<hr />
-<br />
+---
 
-<!-- ===================================================================== -->
-<!-- STATUS AND TYPING SVG                                                 -->
-<!-- ===================================================================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=9D7CD8&center=true&vcenter=true&width=700&height=50&lines=System.out.println(%22Build.%22);std%3A%3Acout%20%3C%3C%20%22Code.%22%20%3C%3C%20std%3A%3Aendl%3B;print(%22Innovate.%22);console.log(%22Repeat.%22)" />
-</p>
+# 🛠️ Tech Stack
 
-<!-- ===================================================================== -->
-<!-- CURRENT STATUS WIDGET                                                  -->
-<!-- ===================================================================== -->
-<table align="center">
-  <tr>
-    <td align="left">
-      ```yaml
-      status:
-        current_focus: [Generative AI Agents, Edge Computing]
-        collaborating: [Open Source AI Frameworks]
-        learning: [Quantum Computing, Distributed Consensus]
-        architecture: Modular, Scalable, Reactive
-        vibe: ☕ + 🎧 + 💻 = ❤️
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp&theme=dark" />
+
+### Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,discord&theme=dark" />
+
+### Creative Tools
+
+<img src="https://skillicons.dev/icons?i=ae,pr,ps&theme=dark" />
+
+</div>
+
+---
+
+# 🚀 What I'm Building
+
+### 🎮 Gaming & Tournament Ecosystem
+
+I'm interested in building platforms around gaming communities, tournaments and competitive experiences.
+
+**Vision:**
+
+```text
+Players
+   ↓
+Communities
+   ↓
+Tournaments
+   ↓
+Competition
+   ↓
+Better Gaming Experiences
+```
+
+---
+
+### 🛍️ Digital & E-Commerce Projects
+
+Exploring modern e-commerce experiences with a focus on:
+
+* ✦ Clean UI
+* ✦ Smooth interactions
+* ✦ Mobile-first design
+* ✦ Easy shopping experience
+* ✦ Strong branding
+* ✦ Admin / management systems
+
+---
+
+### 🧪 Experimental Projects
+
+Some ideas start as:
+
+> "What if I built this?"
+
+And eventually become:
+
+> "Wait... this actually works."
+
+I like experimenting with **AI, websites, automation, gaming tools and creative technology.**
+
+---
+
+# 🎨 Creator Side
+
+Coding isn't the only thing I enjoy.
+
+I also like creating **visual content and edits**.
+
+```text
+🎥 Video
+   ↓
+🎨 Edit
+   ↓
+✨ Polish
+   ↓
+⚡ 4K
+   ↓
+🚀 Publish
+```
+
+My creative interests include:
+
+* 🎬 Video editing
+* 🖼️ Image editing
+* 🎞️ Short-form content
+* 🎨 Branding
+* 📱 Social media visuals
+* 💫 Aesthetic profile design
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🧩 My Philosophy
+
+<div align="center">
+
+### `Learn → Build → Break → Fix → Improve`
+
+<br/>
+
+> **Don't wait until you're ready.**
+>
+> **Build until you become ready.**
+
+</div>
+
+---
+
+# 🌌 Beyond Code
+
+I believe technology is more fun when you mix different worlds.
+
+```text
+              ┌──────────────┐
+              │   💡 IDEAS   │
+              └──────┬───────┘
+                     │
+          ┌──────────▼──────────┐
+          │      BUILDING       │
+          └──────────┬──────────┘
+                     │
+        ┌────────────┼────────────┐
+        ▼            ▼            ▼
+      💻 CODE      🎨 CREATE     🎮 PLAY
+        │            │            │
+        └────────────┼────────────┘
+                     ▼
+              🚀 SOMETHING NEW
+```
+
+---
+
+# 🎯 Currently Exploring
+
+* 🤖 AI & intelligent tools
+* 🌐 Modern web development
+* 🎮 Gaming ecosystems
+* 🛒 E-commerce
+* 🎨 Creative editing
+* ⚙️ Automation
+* 💡 Startup / product ideas
+
+---
+
+# 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+> 🚧 More projects coming soon...
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/YOUR_INSTAGRAM">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💜 Thanks for stopping by!
+
+`If you found something interesting, feel free to explore.`
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
+
+<br/><br/>
+
+**⭐ Build something. Break something. Learn something.**
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                         END README                            -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
