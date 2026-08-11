@@ -18,13 +18,15 @@
 
 <br/>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/shrijal10333">
+<img src="https://img.shields.io/badge/GitHub-shrijal10333-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="#">
-<img src="https://img.shields.io/badge/Projects-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white"/>
+
+<a href="https://github.com/shrijal10333?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-AUTO-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white"/>
 </a>
-<a href="#">
+
+<a href="https://github.com/shrijal10333">
 <img src="https://img.shields.io/badge/Always-Building-6366F1?style=for-the-badge&logo=githubsponsors&logoColor=white"/>
 </a>
 
@@ -60,6 +62,7 @@ I'm not interested in just learning technology.
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### 💻 Development
@@ -85,9 +88,11 @@ I'm not interested in just learning technology.
 * Creative experiments
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 ### 🎮 Gaming
@@ -113,6 +118,7 @@ I'm not interested in just learning technology.
 * Experimental projects
 
 </td>
+
 </tr>
 </table>
 
@@ -124,11 +130,15 @@ I'm not interested in just learning technology.
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,php&theme=dark" />
+
+<br/>
 
 ### Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,discord&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,discord,nodejs,react,nextjs,tailwind,linux,ubuntu&theme=dark" />
+
+<br/>
 
 ### Creative Tools
 
@@ -220,15 +230,13 @@ My creative interests include:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shrijal10333&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" width="48%"/>
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrijal10333&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" width="40%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<br/><br/>
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=shrijal10333&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" width="70%"/>
 
 </div>
 
@@ -286,21 +294,71 @@ I believe technology is more fun when you mix different worlds.
 
 ---
 
-# 📌 Featured Projects
+# 📂 My Project Universe
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true"/>
-</a>
+### `Every project I build automatically appears here.`
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true"/>
-</a>
+<br/>
+
+<sub>
+🔄 Automatically synchronized from my GitHub repositories
+</sub>
 
 </div>
 
-> 🚧 More projects coming soon...
+<!-- PROJECTS_START -->
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center" width="50%">
+
+### 🚀 Projects Loading...
+
+The automatic GitHub project system will populate this section.
+
+</td>
+
+<td width="50%"></td>
+
+</tr>
+
+</table>
+
+</div>
+
+<!-- PROJECTS_END -->
+
+---
+
+# ⭐ Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/shrijal10333/Sweetie">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shrijal10333&repo=Sweetie&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/shrijal10333/samakshhh-bots-all-in-one">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shrijal10333&repo=samakshhh-bots-all-in-one&theme=tokyonight&hide_border=true"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/shrijal10333/samaksh-panel">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shrijal10333&repo=samaksh-panel&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/shrijal10333/RIFT-ALL-BOT-HOSTING">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shrijal10333&repo=RIFT-ALL-BOT-HOSTING&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
 
 ---
 
@@ -308,7 +366,17 @@ I believe technology is more fun when you mix different worlds.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shrijal10333&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/shrijal10333/shrijal10333/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
 
 </div>
 
@@ -318,16 +386,14 @@ I believe technology is more fun when you mix different worlds.
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/shrijal10333">
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/YOUR_INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+<br/><br/>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/shrijal10333?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -342,7 +408,7 @@ I believe technology is more fun when you mix different worlds.
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=shrijal10333&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
 
 <br/><br/>
 
