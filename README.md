@@ -313,7 +313,7 @@ I believe technology is more fun when you mix different worlds.
 
 <div align="center">
 
-### 🚀 `1 Projects & Counting...`
+### 🚀 `2 Projects & Counting...`
 
 <br/>
 
@@ -329,6 +329,26 @@ Automatically synchronized with my GitHub repositories.
 <table>
 
 <tr>
+
+<td width="50%" valign="top">
+
+### 🤖 Samaksh All In One Bot
+
+**JavaScript**
+
+One Bot. Infinite Possibilities. 🌐  🌟 Who Am I? Main hu Samaksh All In One Bot — aapka ultimate digital assistant! Group management ho, media downl...
+
+<br/>
+
+⭐ `0` &nbsp;&nbsp; 🍴 `0`
+
+<br/><br/>
+
+<a href="https://github.com/shrijal10333/Samaksh-All-In-One-Bot">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
 
 <td width="50%" valign="top">
 
@@ -349,8 +369,6 @@ An experimental project built by Samaksh.
 </a>
 
 </td>
-
-<td width="50%"></td>
 
 </tr>
 
