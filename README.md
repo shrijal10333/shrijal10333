@@ -10,9 +10,11 @@
 
 # ⚡ SAMAKSH
 
-### `Building • Creating • Experimenting`
+### ✦ `Building • Creating • Experimenting`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=760&lines=Developer+%7C+Creator+%7C+Editor;I+build+things+I+wish+existed.;Turning+ideas+into+digital+experiences.;Code+%E2%80%A2+Create+%E2%80%A2+Break+%E2%80%A2+Rebuild" alt="Typing SVG"/>
+`SPACE MONO`  ·  `MIDNIGHT UI`  ·  `PURPLE GLOW`
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=760&lines=Developer+%7C+Creator+%7C+Editor;I+build+things+I+wish+existed.;Turning+ideas+into+digital+experiences.;Code+%E2%80%A2+Create+%E2%80%A2+Break+%E2%80%A2+Rebuild" alt="Typing SVG"/>
 
 <br/>
 
@@ -39,7 +41,7 @@
 
 ---
 
-## 🧠 `whoami`
+## 🧠 ᴡʜᴏᴀᴍɪ
 
 > **I'm Samaksh — a curious builder who likes turning random ideas into actual things.**
 
@@ -63,7 +65,7 @@ I'm not interested in just learning technology.
 
 ---
 
-# ✨ What I'm Into
+# ✨ ᴡʜᴀᴛ ɪ'ᴍ ɪɴᴛᴏ
 
 <table>
 <tr>
@@ -122,7 +124,7 @@ I'm not interested in just learning technology.
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ ᴛᴇᴄʜ sᴛᴀᴄᴋ
 
 <div align="center">
 
@@ -146,7 +148,7 @@ I'm not interested in just learning technology.
 
 ---
 
-# 🚀 What I'm Building
+# 🚀 ᴡʜᴀᴛ ɪ'ᴍ ʙᴜɪʟᴅɪɴɢ
 
 ### 🎮 Gaming & Tournament Ecosystem
 
@@ -189,7 +191,7 @@ I like experimenting with **AI, websites, automation, gaming tools and creative 
 
 ---
 
-# 🎨 Creator Side
+# 🎨 ᴄʀᴇᴀᴛᴏʀ sɪᴅᴇ
 
 Coding isn't the only thing I enjoy.
 
@@ -218,7 +220,7 @@ My creative interests include:
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs
 
 <div align="center">
 
@@ -238,7 +240,7 @@ My creative interests include:
 
 ---
 
-# 📈 Live Contribution Activity
+# 📈 ʟɪᴠᴇ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ
 
 <div align="center">
 
@@ -248,7 +250,7 @@ My creative interests include:
 
 ---
 
-# 📂 Project Universe
+# 📂 ᴘʀᴏᴊᴇᴄᴛ ᴜɴɪᴠᴇʀsᴇ
 
 <div align="center">
 
@@ -264,37 +266,22 @@ My creative interests include:
 
 <!-- PROJECTS_START -->
 
-
-<div align="center">
-
-### 🚀 `3 Projects & Counting...`
-
-<br/>
-
-<sub>
-Automatically synchronized with my GitHub repositories.
-</sub>
-
-</div>
-
-
-<div align="center">
-
 <table>
-
 <tr>
-
 <td width="50%" valign="top">
 
 ### 🤖 Samaksh Music Bot
 
 **JavaScript**
 
-An experimental project built by Samaksh.
+Experimental Discord music bot project.
 
-<br/>
-
-⭐ `1` &nbsp;&nbsp; 🍴 `0`
+<a href="https://github.com/shrijal10333/Samaksh-Music-Bot">
+<img src="https://img.shields.io/github/stars/shrijal10333/Samaksh-Music-Bot?style=flat-square&logo=github"/>
+</a>
+<a href="https://github.com/shrijal10333/Samaksh-Music-Bot/network/members">
+<img src="https://img.shields.io/github/forks/shrijal10333/Samaksh-Music-Bot?style=flat-square&logo=github"/>
+</a>
 
 <br/><br/>
 
@@ -310,11 +297,14 @@ An experimental project built by Samaksh.
 
 **JavaScript**
 
-One Bot. Infinite Possibilities. 🌐  🌟 Who Am I? Main hu Samaksh All In One Bot — aapka ultimate digital assistant! Group management ho, media downl...
+One Bot. Infinite Possibilities. 🌐
 
-<br/>
-
-⭐ `0` &nbsp;&nbsp; 🍴 `0`
+<a href="https://github.com/shrijal10333/Samaksh-All-In-One-Bot">
+<img src="https://img.shields.io/github/stars/shrijal10333/Samaksh-All-In-One-Bot?style=flat-square&logo=github"/>
+</a>
+<a href="https://github.com/shrijal10333/Samaksh-All-In-One-Bot/network/members">
+<img src="https://img.shields.io/github/forks/shrijal10333/Samaksh-All-In-One-Bot?style=flat-square&logo=github"/>
+</a>
 
 <br/><br/>
 
@@ -323,21 +313,23 @@ One Bot. Infinite Possibilities. 🌐  🌟 Who Am I? Main hu Samaksh All In One
 </a>
 
 </td>
-
 </tr>
-<tr>
 
+<tr>
 <td width="50%" valign="top">
 
 ### 🚀 Samaksh Repo
 
 **JavaScript**
 
-An experimental project built by Samaksh.
+Experimental project built by Samaksh.
 
-<br/>
-
-⭐ `0` &nbsp;&nbsp; 🍴 `0`
+<a href="https://github.com/shrijal10333/SAMAKSH-REPO">
+<img src="https://img.shields.io/github/stars/shrijal10333/SAMAKSH-REPO?style=flat-square&logo=github"/>
+</a>
+<a href="https://github.com/shrijal10333/SAMAKSH-REPO/network/members">
+<img src="https://img.shields.io/github/forks/shrijal10333/SAMAKSH-REPO?style=flat-square&logo=github"/>
+</a>
 
 <br/><br/>
 
@@ -347,21 +339,25 @@ An experimental project built by Samaksh.
 
 </td>
 
-<td width="50%"></td>
+<td width="50%" valign="top">
 
+### 🌐 More Projects
+
+My repositories keep changing as I build new things.
+
+<a href="https://github.com/shrijal10333?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
 </tr>
-
-
 </table>
-
-</div>
-
 
 <!-- PROJECTS_END -->
 
 ---
 
-# ⭐ Featured Projects
+# ⭐ ғᴇᴀᴛᴜʀᴇᴅ ᴘʀᴏᴊᴇᴄᴛs
 
 <div align="center">
 
@@ -387,7 +383,7 @@ An experimental project built by Samaksh.
 
 ---
 
-# 🧩 My Philosophy
+# 🧩 ᴍʏ ᴘʜɪʟᴏsᴏᴘʜʏ
 
 <div align="center">
 
@@ -403,7 +399,7 @@ An experimental project built by Samaksh.
 
 ---
 
-# 🌌 Beyond Code
+# 🌌 ʙᴇʏᴏɴᴅ ᴄᴏᴅᴇ
 
 I believe technology is more fun when you mix different worlds.
 
@@ -427,7 +423,7 @@ I believe technology is more fun when you mix different worlds.
 
 ---
 
-# 🎯 Currently Exploring
+# 🎯 ᴄᴜʀʀᴇɴᴛʟʏ ᴇxᴘʟᴏʀɪɴɢ
 
 - 🤖 AI & intelligent tools
 - 🌐 Modern web development
@@ -439,7 +435,7 @@ I believe technology is more fun when you mix different worlds.
 
 ---
 
-# 🏆 GitHub Highlights
+# 🏆 ɢɪᴛʜᴜʙ ʜɪɢʜʟɪɢʜᴛs
 
 <div align="center">
 
@@ -459,17 +455,21 @@ I believe technology is more fun when you mix different worlds.
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ sɴᴀᴋᴇ
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shrijal10333/shrijal10333/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img src="github-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+</picture>
 
 </div>
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 ʟᴇᴛ's ᴄᴏɴɴᴇᴄᴛ
 
 <div align="center">
 
@@ -492,6 +492,8 @@ I believe technology is more fun when you mix different worlds.
 <img src="https://komarev.com/ghpvc/?username=shrijal10333&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 <br/><br/>
+
+`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
 
 **⭐ Build something. Break something. Learn something.**
 
