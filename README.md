@@ -264,37 +264,22 @@ My creative interests include:
 
 <!-- PROJECTS_START -->
 
-
-<div align="center">
-
-### 🚀 `3 Projects & Counting...`
-
-<br/>
-
-<sub>
-Automatically synchronized with my GitHub repositories.
-</sub>
-
-</div>
-
-
-<div align="center">
-
 <table>
-
 <tr>
-
 <td width="50%" valign="top">
 
 ### 🤖 Samaksh Music Bot
 
 **JavaScript**
 
-An experimental project built by Samaksh.
+Experimental Discord music bot project.
 
-<br/>
-
-⭐ `0` &nbsp;&nbsp; 🍴 `0`
+<a href="https://github.com/shrijal10333/Samaksh-Music-Bot">
+<img src="https://img.shields.io/github/stars/shrijal10333/Samaksh-Music-Bot?style=flat-square&logo=github"/>
+</a>
+<a href="https://github.com/shrijal10333/Samaksh-Music-Bot/network/members">
+<img src="https://img.shields.io/github/forks/shrijal10333/Samaksh-Music-Bot?style=flat-square&logo=github"/>
+</a>
 
 <br/><br/>
 
@@ -310,11 +295,14 @@ An experimental project built by Samaksh.
 
 **JavaScript**
 
-One Bot. Infinite Possibilities. 🌐  🌟 Who Am I? Main hu Samaksh All In One Bot — aapka ultimate digital assistant! Group management ho, media downl...
+One Bot. Infinite Possibilities. 🌐
 
-<br/>
-
-⭐ `0` &nbsp;&nbsp; 🍴 `0`
+<a href="https://github.com/shrijal10333/Samaksh-All-In-One-Bot">
+<img src="https://img.shields.io/github/stars/shrijal10333/Samaksh-All-In-One-Bot?style=flat-square&logo=github"/>
+</a>
+<a href="https://github.com/shrijal10333/Samaksh-All-In-One-Bot/network/members">
+<img src="https://img.shields.io/github/forks/shrijal10333/Samaksh-All-In-One-Bot?style=flat-square&logo=github"/>
+</a>
 
 <br/><br/>
 
@@ -323,21 +311,23 @@ One Bot. Infinite Possibilities. 🌐  🌟 Who Am I? Main hu Samaksh All In One
 </a>
 
 </td>
-
 </tr>
-<tr>
 
+<tr>
 <td width="50%" valign="top">
 
 ### 🚀 Samaksh Repo
 
 **JavaScript**
 
-An experimental project built by Samaksh.
+Experimental project built by Samaksh.
 
-<br/>
-
-⭐ `0` &nbsp;&nbsp; 🍴 `0`
+<a href="https://github.com/shrijal10333/SAMAKSH-REPO">
+<img src="https://img.shields.io/github/stars/shrijal10333/SAMAKSH-REPO?style=flat-square&logo=github"/>
+</a>
+<a href="https://github.com/shrijal10333/SAMAKSH-REPO/network/members">
+<img src="https://img.shields.io/github/forks/shrijal10333/SAMAKSH-REPO?style=flat-square&logo=github"/>
+</a>
 
 <br/><br/>
 
@@ -347,15 +337,19 @@ An experimental project built by Samaksh.
 
 </td>
 
-<td width="50%"></td>
+<td width="50%" valign="top">
 
+### 🌐 More Projects
+
+My repositories keep changing as I build new things.
+
+<a href="https://github.com/shrijal10333?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
 </tr>
-
-
 </table>
-
-</div>
-
 
 <!-- PROJECTS_END -->
 
