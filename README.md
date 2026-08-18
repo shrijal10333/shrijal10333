@@ -288,7 +288,7 @@ Automatically synchronized with my GitHub repositories.
 
 <td width="50%" valign="top">
 
-### 🚀 Image Url
+### 🎛️ Samaksh Panel
 
 **Project**
 
@@ -300,7 +300,7 @@ An experimental project built by Samaksh.
 
 <br/><br/>
 
-<a href="https://github.com/shrijal10333/image-url">
+<a href="https://github.com/shrijal10333/Samaksh-Panel">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
