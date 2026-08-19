@@ -269,7 +269,7 @@ My creative interests include:
 
 <div align="center">
 
-### 🚀 `5 Projects & Counting...`
+### 🚀 `6 Projects & Counting...`
 
 <br/>
 
@@ -284,6 +284,49 @@ Automatically synchronized with my GitHub repositories.
 
 <table>
 
+<tr>
+
+<td width="50%" valign="top">
+
+### 🚀 Anicine
+
+**Project**
+
+AniCine— AI-Powered Media Recommendation & Streaming Platform Developed a full-stack platform that recommends movies, music, and anime using person...
+
+<br/>
+
+⭐ `0` &nbsp;&nbsp; 🍴 `0`
+
+<br/><br/>
+
+<a href="https://github.com/shrijal10333/AniCine">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 Samaksh Repo
+
+**JavaScript**
+
+An experimental project built by Samaksh.
+
+<br/>
+
+⭐ `0` &nbsp;&nbsp; 🍴 `0`
+
+<br/><br/>
+
+<a href="https://github.com/shrijal10333/SAMAKSH-REPO">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
 <tr>
 
 <td width="50%" valign="top">
@@ -368,31 +411,6 @@ An experimental project built by Samaksh.
 </a>
 
 </td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🚀 Samaksh Repo
-
-**JavaScript**
-
-An experimental project built by Samaksh.
-
-<br/>
-
-⭐ `0` &nbsp;&nbsp; 🍴 `0`
-
-<br/><br/>
-
-<a href="https://github.com/shrijal10333/SAMAKSH-REPO">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%"></td>
 
 </tr>
 
