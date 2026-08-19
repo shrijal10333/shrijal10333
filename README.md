@@ -269,7 +269,7 @@ My creative interests include:
 
 <div align="center">
 
-### 🚀 `4 Projects & Counting...`
+### 🚀 `5 Projects & Counting...`
 
 <br/>
 
@@ -285,6 +285,26 @@ Automatically synchronized with my GitHub repositories.
 <table>
 
 <tr>
+
+<td width="50%" valign="top">
+
+### 🤖 Samakshtempmail
+
+**TypeScript**
+
+🌸 Aesthetic disposable email platform with instant inboxes, real-time emails, auto OTP detection, custom domains, Firebase auth, Samaksh Coins, ach...
+
+<br/>
+
+⭐ `0` &nbsp;&nbsp; 🍴 `0`
+
+<br/><br/>
+
+<a href="https://github.com/shrijal10333/samakshtempmail">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
 
 <td width="50%" valign="top">
 
@@ -306,6 +326,9 @@ One Bot. Infinite Possibilities. 🌐  🌟 Who Am I? Main hu Samaksh All In One
 
 </td>
 
+</tr>
+<tr>
+
 <td width="50%" valign="top">
 
 ### 🎛️ Samaksh Panel
@@ -325,9 +348,6 @@ An experimental project built by Samaksh.
 </a>
 
 </td>
-
-</tr>
-<tr>
 
 <td width="50%" valign="top">
 
@@ -349,6 +369,9 @@ An experimental project built by Samaksh.
 
 </td>
 
+</tr>
+<tr>
+
 <td width="50%" valign="top">
 
 ### 🚀 Samaksh Repo
@@ -368,6 +391,8 @@ An experimental project built by Samaksh.
 </a>
 
 </td>
+
+<td width="50%"></td>
 
 </tr>
 
