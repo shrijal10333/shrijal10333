@@ -288,11 +288,11 @@ Automatically synchronized with my GitHub repositories.
 
 <td width="50%" valign="top">
 
-### 🤖 Samakshtempmail
+### 🤖 Samakshtempmails
 
 **TypeScript**
 
-🌸 Aesthetic disposable email platform with instant inboxes, real-time emails, auto OTP detection, custom domains, Firebase auth, Samaksh Coins, ach...
+SamakshTempMails
 
 <br/>
 
@@ -300,7 +300,7 @@ Automatically synchronized with my GitHub repositories.
 
 <br/><br/>
 
-<a href="https://github.com/shrijal10333/samakshtempmail">
+<a href="https://github.com/shrijal10333/SamakshTempMails">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
