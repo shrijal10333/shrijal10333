@@ -290,7 +290,7 @@ Automatically synchronized with my GitHub repositories.
 
 ### 🚀 Anicine
 
-**Project**
+**JavaScript**
 
 AniCine— AI-Powered Media Recommendation & Streaming Platform Developed a full-stack platform that recommends movies, music, and anime using person...
 
