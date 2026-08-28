@@ -288,6 +288,26 @@ Automatically synchronized with my GitHub repositories.
 
 <td width="50%" valign="top">
 
+### 🤖 Samakshtempmails
+
+**TypeScript**
+
+SamakshTempMails
+
+<br/>
+
+⭐ `0` &nbsp;&nbsp; 🍴 `0`
+
+<br/><br/>
+
+<a href="https://github.com/shrijal10333/SamakshTempMails">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
 ### 🎛️ Samaksh Panel
 
 **EJS**
@@ -306,6 +326,9 @@ An experimental project built by Samaksh.
 
 </td>
 
+</tr>
+<tr>
+
 <td width="50%" valign="top">
 
 ### 🚀 Samaksh Filemanager
@@ -321,29 +344,6 @@ An experimental project built by Samaksh.
 <br/><br/>
 
 <a href="https://github.com/shrijal10333/Samaksh-FileManager">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🤖 Samakshtempmails
-
-**TypeScript**
-
-SamakshTempMails
-
-<br/>
-
-⭐ `0` &nbsp;&nbsp; 🍴 `0`
-
-<br/><br/>
-
-<a href="https://github.com/shrijal10333/SamakshTempMails">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
