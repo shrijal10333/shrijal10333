@@ -288,6 +288,26 @@ Automatically synchronized with my GitHub repositories.
 
 <td width="50%" valign="top">
 
+### 🌐 Repo Sites
+
+**TypeScript**
+
+An experimental project built by Samaksh.
+
+<br/>
+
+⭐ `0` &nbsp;&nbsp; 🍴 `0`
+
+<br/><br/>
+
+<a href="https://github.com/shrijal10333/REPo-sites">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
 ### 🚀 Knifeduels Script
 
 **Lua**
@@ -305,6 +325,9 @@ An experimental project built by Samaksh.
 </a>
 
 </td>
+
+</tr>
+<tr>
 
 <td width="50%" valign="top">
 
@@ -326,9 +349,6 @@ An experimental project built by Samaksh.
 
 </td>
 
-</tr>
-<tr>
-
 <td width="50%" valign="top">
 
 ### 🤖 Samakshtempmails
@@ -349,6 +369,9 @@ SamakshTempMails
 
 </td>
 
+</tr>
+<tr>
+
 <td width="50%" valign="top">
 
 ### 🎛️ Samaksh Panel
@@ -364,29 +387,6 @@ An experimental project built by Samaksh.
 <br/><br/>
 
 <a href="https://github.com/shrijal10333/Samaksh-Panel">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🚀 Samaksh Filemanager
-
-**Python**
-
-An experimental project built by Samaksh.
-
-<br/>
-
-⭐ `0` &nbsp;&nbsp; 🍴 `0`
-
-<br/><br/>
-
-<a href="https://github.com/shrijal10333/Samaksh-FileManager">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
