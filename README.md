@@ -269,7 +269,7 @@ My creative interests include:
 
 <div align="center">
 
-### 🚀 `9 Projects & Counting...`
+### 🚀 `10 Projects & Counting...`
 
 <br/>
 
@@ -285,6 +285,26 @@ Automatically synchronized with my GitHub repositories.
 <table>
 
 <tr>
+
+<td width="50%" valign="top">
+
+### 🤖 Aethermail
+
+**TypeScript**
+
+AetherMail
+
+<br/>
+
+⭐ `0` &nbsp;&nbsp; 🍴 `0`
+
+<br/><br/>
+
+<a href="https://github.com/shrijal10333/AetherMail">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
 
 <td width="50%" valign="top">
 
@@ -306,6 +326,9 @@ An experimental project built by Samaksh.
 
 </td>
 
+</tr>
+<tr>
+
 <td width="50%" valign="top">
 
 ### 🚀 Knifeduels Script
@@ -325,9 +348,6 @@ An experimental project built by Samaksh.
 </a>
 
 </td>
-
-</tr>
-<tr>
 
 <td width="50%" valign="top">
 
@@ -349,6 +369,9 @@ An experimental project built by Samaksh.
 
 </td>
 
+</tr>
+<tr>
+
 <td width="50%" valign="top">
 
 ### 🤖 Samakshtempmails
@@ -368,9 +391,6 @@ SamakshTempMails
 </a>
 
 </td>
-
-</tr>
-<tr>
 
 <td width="50%" valign="top">
 
@@ -392,6 +412,9 @@ An experimental project built by Samaksh.
 
 </td>
 
+</tr>
+<tr>
+
 <td width="50%" valign="top">
 
 ### 🤖 Samaksh All In One Bot
@@ -411,9 +434,6 @@ One Bot. Infinite Possibilities. 🌐  🌟 Who Am I? Main hu Samaksh All In One
 </a>
 
 </td>
-
-</tr>
-<tr>
 
 <td width="50%" valign="top">
 
@@ -435,6 +455,9 @@ AniCine— AI-Powered Media Recommendation & Streaming Platform Developed a full
 
 </td>
 
+</tr>
+<tr>
+
 <td width="50%" valign="top">
 
 ### 🚀 Samaksh Repo
@@ -455,9 +478,6 @@ An experimental project built by Samaksh.
 
 </td>
 
-</tr>
-<tr>
-
 <td width="50%" valign="top">
 
 ### 🤖 Samaksh Music Bot
@@ -477,8 +497,6 @@ An experimental project built by Samaksh.
 </a>
 
 </td>
-
-<td width="50%"></td>
 
 </tr>
 
